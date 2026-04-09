@@ -28,7 +28,7 @@ Dataset → SQL Server → Python Analysis → Power BI Dashboard
 
 ## **Dataset Structure**
 
-Your dataset contains 5000 patient records.
+Your dataset contains 6000 patient records.
 
 ## **Columns:**  
 * PatientID
