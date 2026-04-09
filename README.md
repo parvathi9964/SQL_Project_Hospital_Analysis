@@ -1,0 +1,45 @@
+# **Healthcare Operations Analytics | SQL**
+
+## **Objective**
+Hospitals generate large operational datasets such as patient admissions, treatments, costs, and department workloads.
+
+## **Key Analysis Performed**
+- Optimize hospital resources
+- Understand patient demographics
+- Analyze treatment cost patterns
+- Monitor department performance
+
+## **Key Insights**
+* Cardiology and Orthopedics have the highest treatment costs
+* Emergency patients show longer hospital stays
+* Most patients fall within 30-60 age group
+* Patient admissions show seasonal patterns
+
+## **Tools Used**
+- SQL server
+- DAX
+- Excel
+- Power BI
+- Python
+
+## **Workflow:**
+
+Dataset → SQL Server → Python Analysis → Power BI Dashboard
+
+## **Dataset Structure**
+
+Your dataset contains 5000 patient records.
+
+## **Columns:**  
+* PatientID
+* Age	Patient
+* Gender
+* City
+* Department
+* AdmissionType 
+* AdmissionDate
+* LengthOfStay
+* TreatmentCost
+* Outcome	
+
+
