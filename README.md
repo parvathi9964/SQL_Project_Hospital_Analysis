@@ -41,3 +41,6 @@ Your dataset contains 6000 patient records.
 * LengthOfStay
 * TreatmentCost
 * Outcome	
+
+<img width="500" height="400" alt="sql_hos" src="https://github.com/user-attachments/assets/5c159662-1622-4de3-b0b5-26335c0f148b" />
+
